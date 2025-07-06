@@ -149,3 +149,5 @@ bool IsEven(int number) {
 Explanation: 
 
 Methods are like mini-programs inside your program. They make your code reusable, readable, and organized. You can pass values into them and get results out.
+
+End of assignment.
