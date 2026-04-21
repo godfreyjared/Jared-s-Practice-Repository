@@ -1,4 +1,7 @@
+Basic Git Commit Practice
+Add a third step and rename the last step 4: 
+
 Step 1: Pizza Time
 Step 2: Is coming! 
-Step 2A: Choose your toppings
-Step 3: Go to an arcade near you!!! 
+Step 3: Choose your toppings
+Step 4: Go to an arcade near you!!! 
